@@ -1,0 +1,11 @@
+clc;
+clear all; close all;
+
+P = tf([100],[1 0]);    % 100/s
+C = tf([100],[1 40]);   % 100/(s+40)
+
+%% Prob 2a. Bode Plot
+disp('>> Prob 2a. Bode Plot of the Loop Transfer Function');
+
+L = P*C;
+bode(L)
