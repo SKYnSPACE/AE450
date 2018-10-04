@@ -167,7 +167,7 @@ ans =
     4.5388
    -4.5388
 ```
-&nbsp; Since one of the eigenvalue is located on the right-half plane of a complex plane, the given system is naturally unstable.
+&nbsp; Since one of the eigenvalue is located on the right-half plane of a complex plane, the given system is unstable.
 <br>
 
 -  SCORING CRITERIA
