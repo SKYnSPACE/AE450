@@ -1,7 +1,7 @@
 clc;
 clear all; close all;
 
-load('HW1_Prob4.mat');
+load('Prob4.mat');
 %% Prob 4a. Bode Plot
 disp('>> Prob 4a. Root locus');
 
